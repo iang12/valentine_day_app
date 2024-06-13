@@ -1,6 +1,8 @@
 # valentine_day_app
 
-A new Flutter project.
+Aplicativo Flutter para o dia dos namorados!
+
+E aí, quem você pediria em namoro assim? ❤️
 
 ## Getting Started
 
